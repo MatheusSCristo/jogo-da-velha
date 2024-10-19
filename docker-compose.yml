@@ -1,0 +1,16 @@
+services:
+  frontimage:
+    image: "frontimage:0.1"
+    container_name: frontimage
+    ports:
+      - "3000:3000"
+    links:
+      - "backimage"
+
+  backimage:
+    image: "backimage:0.1"
+    container_name: backimage
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING.PROFILES.ACTIVE=default
