@@ -1,6 +1,6 @@
-# Jogo da Velha - Backend
+# Jogo da Velha 
 
-Este projeto é o backend do jogo da velha, com duas versões: uma em **Spring Boot** e outra em **Next.js** (para a interface), ambos com suporte ao **Docker** e comunicação via **WebSocket**.
+Este projeto é um jogo da velha, com duas versões: uma em **Spring Boot** e outra em **Next.js** (para a interface), ambos com suporte ao **Docker** e comunicação via **WebSocket**.
 
 ## Requisitos
 
