@@ -8,7 +8,6 @@ Certifique-se de que você tem os seguintes itens instalados em sua máquina:
 
 - [Node.js](https://nodejs.org/) (para a versão Next.js)
 - [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
 - [Java 17+](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) (para o backend Spring Boot)
 
 ## Estrutura do Projeto
